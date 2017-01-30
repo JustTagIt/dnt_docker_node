@@ -1,5 +1,5 @@
 # dnt_docker_node
-Docker image for Node.js including Yarn and some other basic additions.
+Docker image for Node.js including Yarn and some other basic additions. Current version: `7.4`
 
 ## Getting the Image
 
