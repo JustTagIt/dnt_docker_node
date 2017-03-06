@@ -4,7 +4,7 @@ Docker image for Node.js including Yarn and some other basic additions. Current 
 ## Getting the Image
 
 ```
-docker pull domandtom/node:7.4
+docker pull domandtom/node:7.7
 ```
 
 ## Implementation
